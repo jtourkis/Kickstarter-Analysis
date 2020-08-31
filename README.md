@@ -68,13 +68,11 @@ List of required packages.
 
 * pandas
 
-* numpy
+* plotly
 
 * seaborn
 
 * matplotlib.pyplot
-
-*plotly
 
 
 ### Installation

@@ -4,10 +4,10 @@
 
 <br />
 
-<p align="center">
   
   <h3 align="center">Kickstarter Campaign Evaluation</h3>
-
+  
+<p align="center">
   <a href="https://github.com/jtourkis/Kickstarter-Analysis">
     <img src="Successful_Campaign_Graph.png" alt="AB" width="500" height="500" style="border:5px solid black">
   </a>

@@ -7,7 +7,7 @@
 <p align="center">
 
   <a href="https://github.com/jtourkis/Kickstarter-Analysis">
-    <img src="ABTest-2.jpg" alt="AB" width="700" height="300" style="border:5px solid black">
+    <img src="Successful_Campaign_Graph.png" alt="AB" width="500" height="500" style="border:5px solid black">
   </a>
  
   <h3 align="center">Kickstarter Campaign Evaluation</h3>

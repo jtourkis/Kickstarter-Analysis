@@ -141,7 +141,7 @@ Note: The intial README Template was distributed under the MIT License. Copyrigh
 
 James Tourkistas - jmtourkistas@suffolk.edu
 
-Project Link: [https://github.com/jtourkis/Kickstarter-Analysis](https://github.com/jtourkis/AB_Testing)
+Project Link: [https://github.com/jtourkis/Kickstarter-Analysis](https://github.com/jtourkis/Kickstarter-Analysis)
 
 
 

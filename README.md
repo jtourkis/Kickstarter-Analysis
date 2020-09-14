@@ -13,9 +13,7 @@
   </a>
  
   <p align="center">
-    **Goal:** This project intends to clean, explore, and analyze data from kickstarter campaigns.
-
-
+  <b>Goal:</b>This project intends to clean, explore, and analyze data from kickstarter campaigns.
     <br />
     <a href="https://github.com/jtourkis/Kickstarter-Analysis"><strong>Explore the docs »</strong></a>
     <br />
